@@ -1,60 +1,24 @@
-# Sehar Bashir - Portfolio
+<h1 align="center">Hi 👋, I'm Sehar Bashir</h1>
+<h3 align="center">I am a passionate web developer dedicated to creating beautiful and professional web designs.</h3>
 
-![Hero Banner](https://github.com/Linamohamed89/Linamohamed89)  
-*You can replace this with your actual hero image*
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sehar113" alt="sehar113" /></a> </p>
 
-## 👋 About Me
-Hello! I'm Sehar Bashir, a passionate developer and creative professional dedicated to building innovative solutions and beautiful digital experiences.
+- 💬 Ask me about **React ,HTML , CSS ,JAVASCRIPT .TAILWINDCSS,NODEJS**
 
-## 📫 Contact Information
-- **Email:** [seharbashir114@gmail.com](mailto:seharbashir114@gmail.com)
-- **Portfolio:** [View My Work](https://ibb.co/JFxGS3qS)
-- **Location:** [Your Location]
-- **Availability:** [Open for work/Full-time/etc.]
+- 📫 How to reach me **seharbashir113@gmail.com**
 
-## 🛠️ Technical Skills
-### Frontend Development
-- HTML5, CSS3, JavaScript (ES6+)
-- React.js/Vue.js/Angular [select relevant]
-- Responsive Web Design
+- 📄 MY Resume [https://ibb.co/JFxGS3qS](https://ibb.co/JFxGS3qS)
 
-### Backend Development
-- Node.js, Python, PHP [select relevant]
-- Databases: MySQL, MongoDB
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/sehar.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sehar.dev" height="30" width="40" /></a>
+</p>
 
-### Design & Tools
-- UI/UX Design
-- Git, GitHub
-- [Other tools you use]
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-## 💻 Featured Projects
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sehar113&show_icons=true&locale=en&layout=compact" alt="sehar113" /></p>
 
-### Project 1: [Project Name]
-![Project Screenshot](https://via.placeholder.com/600x300)  
-Brief description of the project.  
-**Technologies used:** HTML, CSS, JavaScript  
-[Live Demo](#) | [Source Code](#)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sehar113&show_icons=true&locale=en" alt="sehar113" /></p>
 
-### Project 2: [Project Name]
-![Project Screenshot](https://via.placeholder.com/600x300)  
-Brief description of the project.  
-**Technologies used:** React, Node.js  
-[Live Demo](#) | [Source Code](#)
-
-## 🌱 Currently Learning
-- [New technology or skill]
-- [Another area of study]
-
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-## 🤝 Let's Connect
-- [LinkedIn](#)
-- [Twitter](#)
-- [CodePen](#)
-- [Dev.to](#)
-
----
-
-⭐ From [Sehar Bashir](https://github.com/yourusername)  
-📧 seharbashir114@gmail.com | 🔗 [Portfolio](https://ibb.co/JFxGS3qS)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sehar113&" alt="sehar113" /></p>
