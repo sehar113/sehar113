@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sehar Bashir</h1>
 <h3 align="center">I am a passionate web developer dedicated to creating beautiful and professional web designs.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sehar113" alt="sehar113" /></a> </p>
+
 
 - 💬 Ask me about **React ,HTML , CSS ,JAVASCRIPT .TAILWINDCSS,NODEJS**
 
