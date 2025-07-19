@@ -1,6 +1,6 @@
 # Sehar Bashir - Portfolio
 
-![Hero Banner](https://via.placeholder.com/1200x400?text=Sehar+Bashir+Portfolio)  
+![Hero Banner](https://github.com/Linamohamed89/Linamohamed89)  
 *You can replace this with your actual hero image*
 
 ## 👋 About Me
